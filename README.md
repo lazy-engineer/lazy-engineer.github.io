@@ -1,1 +1,0 @@
-lazy-engineer.github.io
